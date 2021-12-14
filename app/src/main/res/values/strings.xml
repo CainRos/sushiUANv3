@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sushi UAN</string>
+    <string name="btnTel">Telefono</string>
+    <string name="btnCont">Contactos </string>
+    <string name="btnFav">Favoritos</string>
+    <string name="btnacpnew">Aceptar</string>
+    <string name="btncancelnew">Cancelar</string>
+    <string name="txtnewnom">Nombre</string>
+    <string name="txtnewtel">Télefono</string>
+    <string name="agregar_contacto">Agregar Contacto</string>
+    <string name="txvModNombre">Nombre</string>
+    <string name="txvModTel">Télefono</string>
+    <string name="btnModGuardar">Modificar</string>
+
+
+
+
+
+
+</resources>
